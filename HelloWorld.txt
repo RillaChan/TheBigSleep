@@ -4,3 +4,5 @@ bigfoot
 123
 
 this is a faulty
+
+This is the master branch
